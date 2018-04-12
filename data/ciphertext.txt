@@ -1,0 +1,2 @@
+This is your ciphertext in binary 00110111110011111001000101111101
+This is your ciphertext in UTF-8 7Ï}
