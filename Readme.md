@@ -1,4 +1,4 @@
-An Implementation of one time pad in Cryptography
+#An Implementation of One Time Pad
 When I ran my code, I used Windows 10 along with Java 8. It wasn't the newest Java but I think any Java will do. 
 In order to run my code, you must go to the build directory, and run the command java OneTimePass [arguments]
 
